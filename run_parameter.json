@@ -1,0 +1,9 @@
+{
+  "input": "s3://latchbio-healthomics/input/excelra-input-data/samplesheet.csv",
+  "aligner": "cellranger",
+  "outdir": "s3://latchbio-healthomics/output/",
+  "protocol": "10XV3",
+  "fasta": "s3://latchbio-healthomics/input/exclera-reference/GRCm38.p6.genome.chr19.fa",
+   "gtf": "s3://latchbio-healthomics/input/exclera-reference/gencode.vM19.annotation.chr19.gtf",
+   "igenomes_ignore": ""
+}
